@@ -1,0 +1,26 @@
+2025-07-03 01:18:24,892 - INFO - Loaded 30 Nifty 250 companies
+2025-07-03 01:18:24,893 - INFO - Starting Indian stock market data collection
+2025-07-03 01:18:24,893 - INFO - Collecting general market data...
+2025-07-03 01:18:29,400 - INFO - Searching for: Nifty 50 analysis
+2025-07-03 01:18:29,693 - INFO - Found 0 trusted results for 'Nifty 50 analysis'
+2025-07-03 01:18:32,452 - INFO - Searching for: Indian stock market outlook
+2025-07-03 01:18:32,694 - INFO - Found 0 trusted results for 'Indian stock market outlook'
+2025-07-03 01:18:37,500 - INFO - Searching for: BSE Sensex trends
+2025-07-03 01:18:37,737 - INFO - Found 0 trusted results for 'BSE Sensex trends'
+2025-07-03 01:18:39,770 - INFO - Searching for: Indian banking sector
+2025-07-03 01:18:39,998 - INFO - Found 0 trusted results for 'Indian banking sector'
+2025-07-03 01:18:42,592 - INFO - Searching for: IT sector India stocks
+2025-07-03 01:18:42,834 - INFO - Found 0 trusted results for 'IT sector India stocks'
+2025-07-03 01:18:45,126 - INFO - Searching for: Pharma sector India
+2025-07-03 01:18:45,369 - INFO - Found 0 trusted results for 'Pharma sector India'
+2025-07-03 01:18:50,135 - INFO - Searching for: Auto sector India stocks
+2025-07-03 01:18:50,423 - INFO - Found 0 trusted results for 'Auto sector India stocks'
+2025-07-03 01:18:52,786 - INFO - Searching for: Real estate stocks India
+2025-07-03 01:18:53,002 - INFO - Found 0 trusted results for 'Real estate stocks India'
+2025-07-03 01:18:53,003 - INFO - Collecting company-specific data...
+2025-07-03 01:18:53,004 - INFO - Processing 1/10: Reliance Industries
+2025-07-03 01:18:55,797 - INFO - Searching for: Reliance Industries stock price
+2025-07-03 01:18:56,034 - INFO - Found 0 trusted results for 'Reliance Industries stock price'
+2025-07-03 01:18:59,896 - INFO - Rate limit reached, waiting 60 seconds...
+2025-07-03 01:19:08,712 - INFO - Collection interrupted by user
+2025-07-03 01:19:08,713 - INFO - Data collection completed
